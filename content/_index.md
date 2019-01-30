@@ -12,7 +12,7 @@ menu:
 
 {{< grid >}}
 
-{{% card link="/principer/lar-kanna-anvandaren" title="Lär känna användaren" %}}
+{{% card link="/principer/lar-kanna-anvandaren" title="Låt dina användare vara med och utveckla tjänsten från dag 1" %}}
 Varje satsning vi gör måste baseras på insikter och behov från riktiga användare. Dessa behov behöver sedan matchas med de effekter verksamheten vill uppnå för att tillsammans skapa värde.
 {{% /card %}}
 
